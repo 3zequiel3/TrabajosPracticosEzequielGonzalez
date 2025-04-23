@@ -1,4 +1,4 @@
-package TP_4;
+package TP_N4;
 class Empleado{
     private int id;
     private String nombre;
