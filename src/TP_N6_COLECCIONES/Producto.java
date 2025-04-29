@@ -1,4 +1,4 @@
-package TP_N6;
+package TP_N6_COLECCIONES;
 
 public class Producto {
     private String id;

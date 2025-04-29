@@ -1,4 +1,4 @@
-package TP_N7;
+package TP_N7_HERENCIA_POLIMORFISMO;
 
 public class EmpleadoPorComision extends Empleado{
     private final int MONTO_POR_CLIENTE = 500;

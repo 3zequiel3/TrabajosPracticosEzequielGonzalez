@@ -1,4 +1,4 @@
-package TP_N7;
+package TP_N7_HERENCIA_POLIMORFISMO;
 
 public class EmpleadoSalarioFijo extends Empleado{
     private final double SUELDO_BASICO = 50000;

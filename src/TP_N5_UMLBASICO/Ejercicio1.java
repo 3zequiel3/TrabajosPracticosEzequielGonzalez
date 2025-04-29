@@ -1,4 +1,4 @@
-package TP_N5;
+package TP_N5_UMLBASICO;
 
 public class Ejercicio1 {
     public static void main(String[] args) {

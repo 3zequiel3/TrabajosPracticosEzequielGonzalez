@@ -1,4 +1,4 @@
-package TP_N6;
+package TP_N6_COLECCIONES;
 
 import java.util.ArrayList;
 import java.util.Comparator;

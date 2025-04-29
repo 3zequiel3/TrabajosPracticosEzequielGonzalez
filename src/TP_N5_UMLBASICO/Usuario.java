@@ -1,4 +1,4 @@
-package TP_N5;
+package TP_N5_UMLBASICO;
 
 public class Usuario {
     private static int contador = 0;

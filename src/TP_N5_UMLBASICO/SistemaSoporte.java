@@ -1,4 +1,4 @@
-package TP_N5;
+package TP_N5_UMLBASICO;
 
 import java.util.ArrayList;
 import java.util.Comparator;
