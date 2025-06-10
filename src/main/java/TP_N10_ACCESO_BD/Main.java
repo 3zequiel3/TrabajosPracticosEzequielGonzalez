@@ -46,7 +46,7 @@ public class Main {
         System.out.println("\n=== Creación de Pedido ===");
         List<Producto> productos = productoService.listar();
 
-        // Tomar productos existentes (Asegúrate que hay stock suficiente)
+        // Tomar productos existentes
         Producto prodPedido1 = productos.get(0); // Notebook
         Producto prodPedido2 = productos.get(1); // Auriculares
 
